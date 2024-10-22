@@ -55,4 +55,5 @@ _________
 
 """
 #Your code should go here:
-
+def augmentednumber (n1):
+    return (n1 + 1)
